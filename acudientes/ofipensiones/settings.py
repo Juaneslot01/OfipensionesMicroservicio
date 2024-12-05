@@ -77,10 +77,10 @@ WSGI_APPLICATION = 'ofipensiones.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': os.environ.get('VARIABLES_DB_NAME', 'variables_db'),
-        'USER': os.environ.get('VARIABLES_DB_USER', 'variables_user'),
-        'PASSWORD': os.environ.get('VARIABLES_DB_PASSWORD', 'isis2503'),
-        'HOST': os.environ.get('VARIABLES_DB_HOST', 'localhost'),
+        'NAME': os.environ.get('ACUDIENTES_DB_NAME', 'acudientes_db'),
+        'USER': os.environ.get('ACUDIENTES_DB_USER', 'acudientes_user'),
+        'PASSWORD': os.environ.get('ACUDIENTES_DB_PASSWORD', 'ofi1234'),
+        'HOST': os.environ.get('ACUDIENTES_DB_HOST', 'localhost'),
         'PORT': '5432',
     }
 }
