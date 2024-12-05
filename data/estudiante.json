@@ -1,0 +1,10 @@
+[
+    {"nombre": "Juan", "apellido": "Martínez", "email": "juan.martinez@example.com", "telefono": "300-123-4567", "acudiente": 1},
+    {"nombre": "Laura", "apellido": "García", "email": "laura.garcia@example.com", "telefono": "301-987-6543", "acudiente": 1},
+    {"nombre": "Carlos", "apellido": "Pérez", "email": "carlos.perez@example.com", "telefono": "302-555-6789", "acudiente": 1},
+    {"nombre": "María", "apellido": "López", "email": "maria.lopez@example.com", "telefono": "303-456-7890", "acudiente": 1},
+    {"nombre": "Luis", "apellido": "Rodríguez", "email": "luis.rodriguez@example.com", "telefono": "304-987-1234", "acudiente": 1},
+    {"nombre": "Ana", "apellido": "Gómez", "email": "ana.gomez@example.com", "telefono": "305-678-5432", "acudiente": 1},
+    {"nombre": "Sofía", "apellido": "Hernández", "email": "sofia.hernandez@example.com", "telefono": "306-555-4321", "acudiente": 1}
+]
+  
