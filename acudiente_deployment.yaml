@@ -1,4 +1,4 @@
-
+resources:
 - name: msd-acudientes-db
   type: compute.v1.instance
   properties:
